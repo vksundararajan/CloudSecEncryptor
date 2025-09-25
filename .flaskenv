@@ -1,2 +1,0 @@
-FLASK_APP=CloudSecEncryptor
-FLASK_ENV=development
